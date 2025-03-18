@@ -88,7 +88,6 @@
     "@azure/identity": "^4.3.0",
     "@azure/keyvault-secrets": "^4.8.0",
     "@google-cloud/secret-manager": "^5.6.0",
-    "selenium-webdriver": "^4.21.0",
     "@n8n/api-types": "workspace:*",
     "@n8n/client-oauth2": "workspace:*",
     "@n8n/config": "workspace:*",
@@ -175,6 +174,7 @@
     "xmllint-wasm": "3.0.1",
     "xss": "catalog:",
     "yamljs": "0.3.0",
-    "zod": "catalog:"
+    "zod": "catalog:",
+    "selenium-webdriver": "^4.21.0"
   }
 }
